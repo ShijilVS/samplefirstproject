@@ -8,6 +8,9 @@ void main() {
  String email = "shijil@gmail.com";
  print("---My Resume---");
  print("My name is $name");
+ print("My Age is $age");
+ print("my number is $phone");
+ print("my mark is $mark");
 
 
 }

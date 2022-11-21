@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ec40e9d-072d-4f25-844b-1a4e35f657ce" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/bin/class_test.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/test.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samplefirstproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/samplefirstproject.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,12 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Dart Command Line App.test.dart">
+  <component name="RunManager" selected="Dart Command Line App.class_test.dart">
+    <configuration name="class_test.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/class_test.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="sample.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/bin/sample.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
@@ -76,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.class_test.dart" />
         <item itemvalue="Dart Command Line App.test.dart" />
         <item itemvalue="Dart Command Line App.sample.dart" />
       </list>
@@ -111,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668767713833</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1669023963175</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669023963175</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
